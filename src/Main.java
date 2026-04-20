@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 void main() {
 
 
@@ -9,8 +8,6 @@ void main() {
     Route route1 = new Route("King Fahd Road", "King Abdullah Financial District", 120.0);
     Route route2 = new Route("Al Olaya", "King Khalid Airport", 200.0);
 
-//    Car car1 = new Car("332", 3, route1);
-//    Car car2 = new Car("2", 1, route2);
     List<Passenger> passengers = new ArrayList<>();
 // --- Create Cars ---
     Car car1 = new Car("CAR-001", 3, route1);
