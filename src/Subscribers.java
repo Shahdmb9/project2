@@ -34,8 +34,7 @@ public class Subscribers extends Passenger {
         super.displayInfo();
         System.out.println("Trip Cost: "+super.getTripCost());
     }
-//    * Subscribers passengers: take 50% discount on trip cost when they reserve a
-//    ca
+
     public String toString() {
         return "Subscriber Passenger: " + super.toString();
     }
