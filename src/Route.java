@@ -1,6 +1,6 @@
 public class Route {
 
-//   * Route Class has: start pick up address, destination address, and trip price .
+
     private String startPickUpAddress;
     private String destinationAddress;
     private double price;
